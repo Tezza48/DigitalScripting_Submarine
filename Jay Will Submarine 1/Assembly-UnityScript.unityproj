@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Jay\Scr\playerMovement.js" />
+     <Compile Include="Assets\Jay\Scr\score.js" />
+     <Compile Include="Assets\Jay\Scr\scoreCounter.js" />
      <Compile Include="Assets\Will\Scr\caveMove.js" />
      <Compile Include="Assets\Will\Scr\spawnNextSegment.js" />
  <Reference Include="UnityEngine.UI">
