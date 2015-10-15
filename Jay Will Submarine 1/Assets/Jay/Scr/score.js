@@ -1,5 +1,5 @@
 ﻿#pragma strict
-var game :GameObject;
+var game : scoreCounter;
 function OnTriggerEnter (){
 	
 	game.score++;
