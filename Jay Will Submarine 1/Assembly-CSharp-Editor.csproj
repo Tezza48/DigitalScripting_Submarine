@@ -77,9 +77,6 @@
      <None Include="Assets\ProCore\Prototype\Shader\pb_VertexShader.shader" />
      <None Include="Assets\ProCore\Prototype\readme.txt" />
      <None Include="Assets\ProCore\Prototype\About\Credits.txt" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -95,20 +92,17 @@
  <Reference Include="UnityEditor.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
- </Reference>
  <Reference Include="ProBuilderCore-Unity5">
- <HintPath>C:/Users/Games/Documents/GitHub/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ <HintPath>C:/Users/Games/Desktop/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Classes/ProBuilderCore-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>C:/Users/Games/Documents/GitHub/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ <HintPath>C:/Users/Games/Desktop/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="KDTree">
- <HintPath>C:/Users/Games/Documents/GitHub/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Classes/ClassesLib/KDTree.dll</HintPath>
+ <HintPath>C:/Users/Games/Desktop/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Classes/ClassesLib/KDTree.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>C:/Users/Games/Documents/GitHub/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+ <HintPath>C:/Users/Games/Desktop/Digital_Scripting_Semester_1/Jay Will Submarine 1/Assets/ProCore/Prototype/Editor/ProBuilderEditor-Unity5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
