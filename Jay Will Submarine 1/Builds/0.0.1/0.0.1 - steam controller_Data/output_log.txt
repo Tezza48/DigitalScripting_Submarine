@@ -1,0 +1,43 @@
+Mono path[0] = 'D:/Users/Student/Documents/University/Year 2/Digital Scripting/Digital_Scripting_Semester_1/Jay Will Submarine 1/Builds/0.0.1/0.0.1 - steam controller_Data/Managed'
+Mono path[1] = 'D:/Users/Student/Documents/University/Year 2/Digital Scripting/Digital_Scripting_Semester_1/Jay Will Submarine 1/Builds/0.0.1/0.0.1 - steam controller_Data/Mono'
+Mono config path = 'D:/Users/Student/Documents/University/Year 2/Digital Scripting/Digital_Scripting_Semester_1/Jay Will Submarine 1/Builds/0.0.1/0.0.1 - steam controller_Data/Mono/etc'
+PlayerConnection initialized from D:/Users/Student/Documents/University/Year 2/Digital Scripting/Digital_Scripting_Semester_1/Jay Will Submarine 1/Builds/0.0.1/0.0.1 - steam controller_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55509
+Multi-casting "[IP] 10.128.66.19 [Port] 55509 [Flags] 2 [Guid] 602801857 [EditorId] 1982010718 [Version] 1048832 [Id] WindowsPlayer(NX9836) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.128.66.19:55509]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\KDTree.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.058 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Users\Student\Documents\University\Year 2\Digital Scripting\Digital_Scripting_Semester_1\Jay Will Submarine 1\Builds\0.0.1\0.0.1 - steam controller_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 444 -> priority: 1 
+  Thread -> id: 1dd8 -> priority: 1 
