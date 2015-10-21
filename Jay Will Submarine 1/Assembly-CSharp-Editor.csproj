@@ -77,6 +77,9 @@
      <None Include="Assets\ProCore\Prototype\Shader\pb_VertexShader.shader" />
      <None Include="Assets\ProCore\Prototype\readme.txt" />
      <None Include="Assets\ProCore\Prototype\About\Credits.txt" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>D:/Users/Student/Documents/University/Year 2/Digital Scripting/Digital_Scripting_Semester_1/Jay Will Submarine 1/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -143,10 +146,6 @@
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>D:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Assembly-UnityScript.unityproj">
-      <Project>{76994BB6-2CC1-86CD-B5C9-2337B437BC36}</Project>      <Name>Assembly-UnityScript</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

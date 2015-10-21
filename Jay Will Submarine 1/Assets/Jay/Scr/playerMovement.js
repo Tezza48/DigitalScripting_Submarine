@@ -9,3 +9,7 @@ function Update(){
 		transform.position.y = Input.GetAxis("Vertical") * distance;
 		transform.position.z += speed * Time.deltaTime;
 }
+
+function OnCollisionEnter () {
+	Application.LoadLevel(0);
+}
