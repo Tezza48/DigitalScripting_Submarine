@@ -19,9 +19,10 @@ function FillCoral () {
 }
 
 function RandomiseCoral () {
+	var threshold = (Mathf.Exp((-Time.timeSinceLevelLoad - 180)/300 - 0.4f) + 0.3);
       for (i in coral) {
             var rng : float = Random.value;
-            var spawn : boolean = (rng > 0.7f) ? true : false;
+            var spawn : boolean = (rng > threshold) ? true : false;
             i.SetActive(spawn ? true : false);
       }
 }
